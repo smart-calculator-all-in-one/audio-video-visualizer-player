@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Lumen",
+      "hasCanvas": true,
+      "bodyTextLen": 203,
+      "bodyTextHash": "e5b605f411e9befd48f3dd238bb4102b40e40ac4cb32a922754f7cdd50f8ae46",
+      "bodyTextPrefix": "Lumen Ready Mic Track Sample Bars Halo Wave Sensitivity Tide, Ba",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Lumen",
+      "hasCanvas": true,
+      "bodyTextLen": 203,
+      "bodyTextHash": "e5b605f411e9befd48f3dd238bb4102b40e40ac4cb32a922754f7cdd50f8ae46",
+      "bodyTextPrefix": "Lumen Ready Mic Track Sample Bars Halo Wave Sensitivity Tide, Ba",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
